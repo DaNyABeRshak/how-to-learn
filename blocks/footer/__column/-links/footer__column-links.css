@@ -1,0 +1,24 @@
+.footer__column-links :link {
+    color:white;
+    text-decoration:none;
+}
+.footer__column-links :visited {
+    color:white;
+    text-decoration:none;
+}
+
+.footer__column-links :hover {
+    text-decoration:underline;
+    opacity:0.5;
+    transition: 1s;
+}
+.footer__column-links {
+    padding: 0;
+    margin: 0;
+    color:white;
+    margin-bottom:16px;
+    line-height:30px;
+    font-size:18px;
+    list-style-type:none;
+    text-decoration: none;
+}
